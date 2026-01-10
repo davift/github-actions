@@ -1,5 +1,7 @@
 # github-actions
 
+![Static Badge](https://img.shields.io/badge/Kubernetes-blue?style=social&logo=Kubernetes) ![Static Badge](https://img.shields.io/badge/GitHub_Actions-blue?style=social&logo=githubactions)
+
 This repository contains examples for building and deploying to Dev and Prod environments using GitHub Actions to a K8s cluster.
 
 ## This repository has examples of GitHub Workflows for:
